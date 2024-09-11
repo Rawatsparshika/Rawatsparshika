@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Rawatsparshika/Rawatsparshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... Software Development 
 - 🌱 I’m currently learning ... Software 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... on Github , Linkedin
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ...
--->
+
